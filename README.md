@@ -27,16 +27,6 @@ The objective is to explore patient demographics, symptoms, medication patterns,
 14. Cumulative patient counts by diagnosis year
 15. Patient severity classification using CASE WHEN
 
-## SQL Concepts Used
-- SELECT, WHERE, GROUP BY
-- ORDER BY
-- Aggregate Functions
-- CASE WHEN
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- DENSE_RANK()
-
 ## Author
 Data Analytics Portfolio Project
 :::
